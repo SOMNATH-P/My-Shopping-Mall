@@ -1,2 +1,2 @@
 # My-Shopping-Mall
-Python mini project
+Python mini project-1
